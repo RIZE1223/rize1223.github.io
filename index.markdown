@@ -10,5 +10,6 @@
 3. aaa
 
 ![](./images/2021-09-16.png)
+<img src="images/2021-09-16.png" width="300px">
 
-[ページ](._posts/1.md)
+[ページ](pages/test.md)
