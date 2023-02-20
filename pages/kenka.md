@@ -140,3 +140,4 @@ public class Scenario : MonoBehaviour
     }
 }
 ```
+シナリオを流す処理を作りました。
