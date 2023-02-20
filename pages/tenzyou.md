@@ -1,22 +1,22 @@
 &nbsp;
+<img src="../images/tenzyou.jpg">
 
 
 
 
 
-
-
-
-# コンセプト
+#　概要
+[GitHubリポジトリ](https://github.com/letconst/knight-of-heavenly-palace-public.git)
+## コンセプト
 剣を投げて相手にワープし剣を切ることで敵を倒す、3Dアクションゲームです。
 
-# 制作意図
+## 制作意図
 東京ゲームショウ2022出展用ゲームのチーム制作作品
 
-# プラットフォーム
+## プラットフォーム
 Nintendo Switch
 
-# 使用言語
+## 使用言語
 C#
 Unity 2021.2.15f1
 

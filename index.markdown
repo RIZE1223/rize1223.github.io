@@ -12,14 +12,14 @@
     
   - 2年
     - [寝言クッキング](pages/negoto.md)
-    - [AIの歌]
+    - [AIの歌](pages/AI.md)
   - 3年
-    - [喧嘩上等]
-    - [Mousou_War]
+    - [喧嘩上等](pages/kenka.md)
+    - [Mousou_War](pages/Mousou.md)
   - 4年
     - [天上宮殿の騎士](pages/tenzyou.md)
-    - [枢路]
-    - 
+    - [枢路](pages/suji.md)
+  
 
 
 #  使用技術経歴
